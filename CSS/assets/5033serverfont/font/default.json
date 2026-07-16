@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "5033serverfont:font/5033/5033_pack_7a3.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\ue7a3"]
+    },
+    {
+      "type": "bitmap", 
+      "file": "5033serverfont:font/5033/5033_pack_7a4.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\ue7a4"]
+    }
+  ]
+}

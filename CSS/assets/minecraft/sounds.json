@@ -1,0 +1,30 @@
+{
+    "music_disc.gxfc":{
+        "sounds":[
+            {
+                "name":"minecraft:records/gxfc",
+                "attenuation_distance":16,
+                "volume":4,
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.lava_chicken":{
+        "sounds":[
+            {
+                "name":"minecraft:records/lava_chicken",
+                "attenuation_distance":16,
+                "volume":4,
+                "stream": true
+            }
+        ]
+    },
+    "music.yrj.clam4":{
+        "sounds": [
+            {
+                "name": "yrj/calm4"
+            }
+        ]
+    }
+}
+}

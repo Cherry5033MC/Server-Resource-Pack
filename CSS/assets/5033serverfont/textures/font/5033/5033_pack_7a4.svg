@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="144"
+   viewBox="0 0 52.916666 38.1"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="5033_pack_7a4.svg"
+   inkscape:export-filename="5033_pack_7a4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0265009"
+     inkscape:cx="91.8912"
+     inkscape:cy="77.362456"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="5.7121557"
+       y="89.904363"
+       width="181.79556"
+       height="51.161046"
+       id="rect7" />
+    <rect
+       x="8.4440562"
+       y="62.585358"
+       width="152.73808"
+       height="40.481799"
+       id="rect6" />
+    <rect
+       x="9.6858292"
+       y="9.6858292"
+       width="162.4239"
+       height="22.848623"
+       id="rect3" />
+    <rect
+       x="21.11014"
+       y="8.9407654"
+       width="177.07683"
+       height="68.545868"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e2e3db;stroke-width:0.192708"
+       id="rect1"
+       width="62.490665"
+       height="42.464458"
+       x="-5.3225489"
+       y="-1.9713145" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7454978,6.4983725)"
+       id="text1"
+       style="font-weight:500;font-size:13.3333px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE Medium';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#241c1c"><tspan
+         x="21.109375"
+         y="22.274706"
+         id="tspan1">CSS  Sever </tspan><tspan
+         x="21.109375"
+         y="38.94133"
+         id="tspan3">Reresource Pack</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.32556405,0,0,0.32556405,-1.313447,-1.4807917)"
+       id="text2"
+       style="font-weight:500;font-size:13.3333px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE Medium';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#241c1c"><tspan
+         x="9.6855469"
+         y="23.018847"
+         id="tspan9">By <tspan
+   style="font-weight:normal;font-family:'MOJANG ABC';-inkscape-font-specification:'MOJANG ABC'"
+   id="tspan8">Cherry5033MC </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE';writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke-width:0.264583"
+       x="7.8852582"
+       y="20.304541"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Minecraft AE';font-family:'Minecraft AE';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="7.8852582"
+         y="20.304541" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.13142098,1.8398936)"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#241c1c"><tspan
+         x="8.4433594"
+         y="75.919237"
+         id="tspan10">V3.0</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.57619433,0,0,0.57619433,-1.714489,-28.468808)"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#241c1c"><tspan
+         x="5.7128906"
+         y="103.2376"
+         id="tspan11">优先级 置顶</tspan></text>
+  </g>
+</svg>

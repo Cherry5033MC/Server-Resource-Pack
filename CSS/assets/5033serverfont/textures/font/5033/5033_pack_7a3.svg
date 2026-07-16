@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210"
+   height="72"
+   viewBox="0 0 55.562499 19.05"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="5033_pack_7a3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0265009"
+     inkscape:cx="84.192207"
+     inkscape:cy="36.135593"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="10.182538"
+       y="8.6924108"
+       width="221.28394"
+       height="42.965345"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke-width:0.236744"
+       id="rect1"
+       width="18.520834"
+       height="18.989716"
+       x="5.3672546e-09"
+       y="1.7443575e-08" />
+    <rect
+       style="fill:#ffff00;stroke-width:0.214914"
+       id="rect2"
+       width="18.520834"
+       height="18.980808"
+       x="18.464647"
+       y="0.065710574" />
+    <rect
+       style="fill:#66ff00;stroke-width:0.239797"
+       id="rect3"
+       width="18.520834"
+       height="19.017546"
+       x="36.967781"
+       y="0.015260085" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;writing-mode:lr-tb;direction:ltr;fill:#24221c;stroke-width:0.264583"
+       x="1.5113412"
+       y="9.0023365"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE Medium';stroke-width:0.264583"
+         x="1.5113412"
+         y="9.0023365">C       S        S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.38103px;font-family:'Minecraft AE';-inkscape-font-specification:'Minecraft AE Medium';writing-mode:lr-tb;direction:ltr;fill:#24221c;stroke-width:1.0319"
+       x="17.281858"
+       y="12.598063"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:3.38103px;stroke-width:1.0319"
+         x="17.281858"
+         y="12.598063">服务器资源包</tspan></text>
+  </g>
+</svg>
